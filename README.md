@@ -241,5 +241,5 @@ This project combines concepts from analog electronics, embedded systems, and ne
 ## Author
 
 **Konstantinos Stamatakos**  
-Electrical Engineering + Mathematics  
+Electrical Engineering
 Tufts University
