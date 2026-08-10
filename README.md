@@ -72,7 +72,7 @@ The analog front end converts the photodiode response into signals that can be m
 
 ### Prototype
 
-![Neuromorphic vision sensor prototype](images/prototype.jpg)
+![Neuromorphic vision sensor prototype](images/breadboard-setup.png)
 
 ---
 
