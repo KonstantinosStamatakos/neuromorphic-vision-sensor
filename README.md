@@ -187,7 +187,7 @@ The system correctly detected **18 of 20 direction changes (90%)**.
 
 The plot below shows the estimated direction over time, where `R` represents rightward motion and `L` represents leftward motion.
 
-![Direction detection results](results/changing-directions/changing directions direction.png)
+![Direction detection results](results/changing-directions/direction.png)
 
 The raw CSV measurements and additional voltage and event plots are available in:
 
